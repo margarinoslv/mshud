@@ -4,10 +4,10 @@
 	{
 		"fieldName"									"HudItemEffectMeter"
 		"xpos"										"cs-0.5"
-		"ypos"										"c115"
+		"ypos"										"c120"
 		"zpos"										"0"
 		"wide"										"80"
-		"tall"										"4"
+		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
 	}
@@ -28,17 +28,15 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ItemEffectMeterLabel"
-		"xpos"										"cs-0.5"
-		"ypos"										"cs-0.5"
-		"zpos"										"2"
+		"xpos"										"9999"
+		"ypos"										"9999"
+		"zpos"										"9999"
 		"wide"										"f0"
 		"tall"										"f0"
-		"visible"									"1"
+		"visible"									"0"
 		"enabled"									"0"
-		"proportionaltoparent"						"1"
+		"proportionaltoparent"						"0"
 		"labelText"									"#TF_Ball"
 		"textAlignment"								"center"
-		"font"										"FontStorePriceSmall"
-		"disabledfgcolor2_override"					"Gray"
 	}
 }

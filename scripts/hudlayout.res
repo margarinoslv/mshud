@@ -52,7 +52,7 @@
 		"wide"										"100"
 		"tall"										"50"
 		"MeterFG"									"White"
-		"MeterBG"									"Gray"
+		"MeterBG"									"White120"
 	}
 	"HudMedicCharge"
 	{
@@ -148,7 +148,7 @@
 		"BoxColor"									"TransparentBlack"
 		"SelectedBoxClor"							"TransparentBlack"
 		"SelectionNumberFg"							"White"
-		"NumberFont"								"HudFontSmallishBold"
+		"NumberFont"								"Inter SemiBold 8px"
 	}
 	"CHudAccountPanel"
 	{
@@ -315,7 +315,7 @@
 		"tall"										"44"
 		"visible"									"1"
 		"enabled"									"1"
-		"IconColor"									"Hostage_Yellow"
+		"IconColor"									"goldyellow"
 	}
 	"HudFlashlight"
 	{
@@ -352,7 +352,7 @@
 		"tall"										"50"
 		"visible"									"1"
 		"enabled"									"1"
-		"BackgroundOverrideColor"					"TransparentLightBlack"
+		"BackgroundOverrideColor"					"TransparentBlack"
 		"bar_xpos"									"50"
 		"bar_ypos"									"20"
 		"bar_height"								"8"

@@ -1,1 +1,9 @@
-#base "HudItemEffectMeter_Demoman.res"
+#base "HudItemEffectMeter.res"
+
+"Resource/UI/HudItemEffectMeter_Spy.res"
+{
+	"HudItemEffectMeter"
+	{
+		"ypos"										"c105"
+	}
+}

@@ -1,11 +1,25 @@
 "Resource/UI/HudItemEffectMeter_Demoman.res"
 {
+	"ChargeMeter"
+	{
+		"ControlName"								"ContinuousProgressBar"
+		"fieldName"									"ChargeMeter"
+		"xpos"										"cs-0.5"
+		"ypos"										"r120"
+		"zpos"										"2"
+		"wide"										"80"
+		"tall"										"2"
+		"visible"									"1"
+		"enabled"									"1"
+		"MeterFG"									"White"
+		"MeterBG"									"Gray"
+	}
 	"HudItemEffectMeter"
 	{
 		"fieldName"									"HudItemEffectMeter"
 		"visible"									"1"
 		"enabled"									"1"
-		"xpos"										"c143"
+		"xpos"										"cs-0.5"
 		"ypos"										"rs1-90"
 		"wide"										"30"
 		"tall"										"20"
@@ -59,7 +73,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"west"
-		"font"										"HudFontMediumSmall"
+		"font"										"Inter Regular 8px"
 		"FgColor"									"White"
 	}
 	"ItemEffectMeterCountShadow"
@@ -76,7 +90,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"west"
-		"font"										"HudFontMediumSmall"
+		"font"										"Inter Regular 8px"
 		"FgColor"									"LabelTransparent"
 
 		"pin_to_sibling"							"ItemEffectMeterCount"

@@ -8,7 +8,7 @@ Scheme
 		"TFOrange"			"145 73 59 255"
 		"QuestMap_ActiveOrange"	"212 127 25 255"
 		"QuestMap_InactiveGrey"	"100 100 100 255"
-		"QuestMap_BGImages"	"56 58 60 255"
+		"QuestMap_BGImages"		"56 58 60 255"
 
 		"PartyMember1"	"124 173 255 255"
 		"PartyMember2"	"99 232 167 255"
@@ -19,17 +19,17 @@ Scheme
 		
 		"teamblue"		"86 133 181 255"
 		"teamred"		"180 65 55 255"
+		"goldyellow"	"255 225 25 255"
 		"White120"		"235 235 235 120"
 		"White"				"235 235 235 255"
 		"Red"				"192 28 0 140"
 		"Blue"				"0 28 162 140"
 		"Yellow"			"251 235 202 255"
 		"TransparentYellow"	"251 235 202 140"
-		"BrightYellow"		"251 235 0 255"
 		"GreenSolid"		 "76 107 34 255"
 		
 		"Black"				"24 24 24 255"
-		"TransparentBlack"	"0 0 0 165"
+		"TransparentBlack"	"0 0 0 180"
 		"FooterBGBlack"		"52 48 55 255"
 		"HudOffWhite"		"200 187 161 255"
 		
@@ -261,8 +261,8 @@ Scheme
 
 		HTML.BgColor					"Blank"
 
-		ProgressBar.FgColor				"ProgressOffWhite"
-		ProgressBar.BgColor				"ProgressBackground"
+		ProgressBar.FgColor				"White"
+		ProgressBar.BgColor				"TransparentBlack"
 
 		CircularProgressBar.FgColor		"White"
 		CircularProgressBar.BgColor		"White"

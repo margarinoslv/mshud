@@ -44,7 +44,7 @@
 		"labelText"									""
 		"font"										"HudFontSmallBold"
 		"dropshadow"								"1"
-		"fgcolor"									"BrightYellow"
+		"fgcolor"									"goldyellow"
 
 		"pin_to_sibling"							"EventTitleLabel"
 		"pin_corner_to_sibling"						"PIN_CENTER_BOTTOM"
