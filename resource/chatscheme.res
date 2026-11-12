@@ -191,7 +191,7 @@
 			"isproportional"								"only"
 			"1"
 			{
-				"name"										"CaskaydiaMono NF"
+				"name"										"interblack"
 				"tall"										"8"
 				"weight"									"0"
 				"antialias"									"1"
@@ -201,7 +201,7 @@
 		{
 			"1"
 			{
-				"name"										"CaskaydiaMono NF"
+				"name"										"interblack"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -220,11 +220,11 @@
 		{
 			"isproportional"								"only"
 
-			"1" { "name" "CaskaydiaMono NF" "tall" "8" "antialias" "1"}
-			"2" { "name" "CaskaydiaMono NF" "tall" "8" "antialias" "1"}
-			"3" { "name" "CaskaydiaMono NF" "tall" "8" "antialias" "1"}
-			"4" { "name" "CaskaydiaMono NF" "tall" "8" "antialias" "1"}
-			"5" { "name" "CaskaydiaMono NF" "tall" "8" "antialias" "1"}
+			"1" { "name" "interblack" "tall" "8" "antialias" "1"}
+			"2" { "name" "interblack" "tall" "8" "antialias" "1"}
+			"3" { "name" "interblack" "tall" "8" "antialias" "1"}
+			"4" { "name" "interblack" "tall" "8" "antialias" "1"}
+			"5" { "name" "interblack" "tall" "8" "antialias" "1"}
 		}
 	}
 
@@ -605,8 +605,8 @@
 	{
 		"1" 
 		{
-			"font" "resource/glyphs/CaskaydiaMono-SemiBold.ttf"
-			"name" "CaskaydiaMono NF"
+			"font" "resource/glyphs/interblack.ttf"
+			"name" "interblack"
 		}
 
 	}

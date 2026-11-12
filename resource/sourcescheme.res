@@ -131,88 +131,88 @@
 	{
 		"Default"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1" }
+			"1" { "name" "inter" "tall" "16" "antialias" "1" }
 		}
 		"DefaultBold"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1"}
+			"1" { "name" "inter" "tall" "16" "antialias" "1"}
 		}
 		"DefaultUnderline"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1"}
+			"1" { "name" "inter" "tall" "16" "antialias" "1"}
 		}
 		"DefaultSmall"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "14" "antialias" "1"}
+			"1" { "name" "inter" "tall" "14" "antialias" "1"}
 		}
 		"DefaultSmallDropShadow"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "14" "antialias" "1"}
+			"1" { "name" "inter" "tall" "14" "antialias" "1"}
 		}
 		"DefaultVerySmall"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "14" "antialias" "1"}
+			"1" { "name" "inter" "tall" "14" "antialias" "1"}
 		}
 		"DefaultLarge"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "24" "antialias" "1"}
+			"1" { "name" "inter" "tall" "24" "antialias" "1"}
 		}
 		"UiBold"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "14" "antialias" "1"}
+			"1" { "name" "inter" "tall" "14" "antialias" "1"}
 		}
 		"ConsoleText"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1"}
+			"1" { "name" "inter" "tall" "16" "antialias" "1"}
 		}
 		"DefaultFixed"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "14" "antialias" "1"}
+			"1" { "name" "inter" "tall" "14" "antialias" "1"}
 		}
 		"DefaultFixedDropShadow"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "14" "antialias" "1"}
+			"1" { "name" "inter" "tall" "14" "antialias" "1"}
 		}
 		"AchievementTitleFont"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "24" "antialias" "1"}
+			"1" { "name" "inter" "tall" "24" "antialias" "1"}
 		}
 		"AchievementTitleFontSmaller"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1"}
+			"1" { "name" "inter" "tall" "16" "antialias" "1"}
 		}
 		"AchievementDescriptionFont"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1" "outline" "0"}
-			"2" { "name" "CaskaydiaMono NF" "tall" "24" "antialias" "1" "outline" "0"}
+			"1" { "name" "inter" "tall" "16" "antialias" "1"}
+			"2" { "name" "inter" "tall" "24" "antialias" "1"}
 		}
 		"AchievementItemTitle"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1"}
+			"1" { "name" "inter" "tall" "16" "antialias" "1"}
 		}
 		"AchievementItemDate"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1"}
+			"1" { "name" "inter" "tall" "16" "antialias" "1"}
 		}
 		"AchievementItemTitleLarge"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1"}
+			"1" { "name" "inter" "tall" "16" "antialias" "1"}
 		}
 		"AchievementItemDescription"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1"}
+			"1" { "name" "inter" "tall" "16" "antialias" "1"}
 		}
 		"ServerBrowserTitle"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "36" "antialias" "1" }
+			"1" { "name" "inter" "tall" "36" "antialias" "1" }
 		}
 		"ServerBrowserSmall"
 		{
-			"1" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1" }
-			"2" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1" }
-			"3" { "name" "CaskaydiaMono NF" "tall" "16" "antialias" "1" }
-			"4" { "name" "CaskaydiaMono NF" "tall" "24" "antialias" "1" }
-			"5" { "name" "CaskaydiaMono NF" "tall" "24" "antialias" "1" }
+			"1" { "name" "inter" "tall" "16" "antialias" "1" }
+			"2" { "name" "inter" "tall" "16" "antialias" "1" }
+			"3" { "name" "inter" "tall" "16" "antialias" "1" }
+			"4" { "name" "inter" "tall" "24" "antialias" "1" }
+			"5" { "name" "inter" "tall" "24" "antialias" "1" }
 		}
 		"Marlett"
 		{
@@ -233,8 +233,8 @@
 	{
 		"5"
 		{
-			"font" "resource/glyphs/CaskaydiaMonoNerdFont-Regular.ttf"
-			"name" "CaskaydiaMono NF"
+			"font" "resource/glyphs/interregular.ttf"
+			"name" "inter"
 		}
 	}
 }

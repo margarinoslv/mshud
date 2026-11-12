@@ -212,19 +212,16 @@
 		"xpos"				"c-20"
 		"ypos"				"6"
 		"zpos"				"2"
-		"wide"				"60"
-		"tall"				"150"
+		"wide"				"40"
+		"tall"				"20"
 		"visible"			"0"
 		"enabled"			"1"
-		"delta_item_x"		"9999"
-
-
 
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"Inter Regular 12px"
+			"font"			"Inter Black Italic 12px"
 			"fgcolor"		"White"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -249,9 +246,9 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		bgcolor_override "0 0 0 0"
+		"bgcolor_override" "0 0 0 0"
 
-		"max_size"	"16"
+		"max_size"	"20"
 
 		"6v6_gap"	"0"
 		"12v12_gap"	"0"
@@ -272,16 +269,17 @@
 			"zpos"			"1"
 
 			"color_portrait_bg_red"	"180 65 55 255"
-			"color_portrait_bg_blue"	"86 133 181 255"
-			"color_portrait_bg_red_dead"	"79 54 52 255"
-			"color_portrait_bg_blue_dead"	"44 49 51 255"
+			"color_portrait_bg_blue"	"85 134 182 255"
+			"color_portrait_bg_red_local_player"    "0 0 0 180"
+			"color_portrait_bg_blue_local_player"    "0 0 0 180"
+			"color_portrait_blend_dead_red"	"255 255 255 255"
+			"color_portrait_blend_dead_blue" "255 255 255 255"
 			"color_bar_health_high"	"60 163 115 255"
 			"color_bar_health_med"	"191 58 58 255"
 			"percentage_health_med"	"0.5"
 			"color_bar_health_low"	"191 58 58 255"
 			"percentage_health_low"	"0.3"
-			"color_portrait_blend_dead_red"	"255 255 255 255"
-			"color_portrait_blend_dead_blue" "255 255 255 255"
+
 			
 			"playername"
 			{
@@ -290,12 +288,13 @@
 				"font"			"Inter Regular 8px"
 				"xpos"			"5"
 				"ypos"			"24"
-				"zpos"			"5"
+				"zpos"			"-20"
 				"wide"			"50"
 				"tall"			"8"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"0"
+				"enabled"		"0"
 			}
 			"classimage"
 			{
@@ -304,13 +303,15 @@
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"3"
-				"wide"			"20"
-				"tall"			"20"
+				"wide"			"21"
+				"tall"			"21"
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"../hud/class_scoutred"
 				"scaleImage"	"1"	
 				"proportionaltoparent"	"1"
+				"paintBackground"	"1"
+				"bgcolor_override"	"Blank"
 			}
 			"classimagebg"
 			{
@@ -324,6 +325,8 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"PaintBackgroundType"	"0"
+				"paintBackground"	"1"
+				"bgcolor_override"	"Blank"
 				"proportionaltoparent"	"1"
 			}
 			"healthbar"
@@ -339,8 +342,9 @@
 				"pinCorner"				"0"
 				"visible"				"1"
 				"enabled"				"1"
-				"textAlignment"			"west"
 				"proportionaltoparent"	"1"
+				"paintBackground"	"1"
+				"bgcolor_override"	"Blank"
 			}
 			"overhealbar"
 			{	
@@ -357,6 +361,8 @@
 				"enabled"				"1"
 				"textAlignment"			"west"
 				"proportionaltoparent"	"1"
+				"paintBackground"	"1"
+				"bgcolor_override"	"Blank"
 			}
 			"HealthIcon"
 			{
@@ -368,16 +374,16 @@
 				"wide"				"32"
 				"tall"				"32"
 				"visible"			"0"
-				"enabled"			"1"	
+				"enabled"			"0"	
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
-				"TFFont"					"Inter Regular 8px"
 				"HealthDeathWarningColor"	"teamred"
-				"TextColor"					"White"
+				"paintBackground"	"1"
+				"bgcolor_override"	"Blank"
 			}
 			"ReadyBG"
 			{
-				"ControlName"		"ScalableImagePanel"
+				"ControlName"		"EditablePanel"
 				"fieldName"		"ReadyBG"
 				"xpos"			"30"
 				"ypos"			"6"
@@ -387,12 +393,7 @@
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"0"
-				"enabled"		"1"
-				"image"			"../HUD/tournament_panel_brown"
-				"src_corner_height"	"22"				// pixels inside the image
-				"src_corner_width"	"22"
-				"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
-				"draw_corner_height" 	"3"
+				"enabled"		"0"
 			}
 			"ReadyImage"
 			{
@@ -414,18 +415,21 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"Inter Regular 8px"
+				"font"			"Inter Black 12px"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"5"
 				"wide"			"f0"
-				"tall"			"19"
+				"tall"			"20"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
 				"proportionaltoparent"	"1"
+				"fgcolor"	"teamred"
+				"paintBackground"	"1"
+				"bgcolor_override"	"Blank"
 			}
 			"chargeamount"
 			{
@@ -459,7 +463,6 @@
 				"visible"		"0"
 				"labelText"		"%specindex%"
 				"textAlignment"	"north-west"
-				//"fgcolor"		"235 226 202 255"
 			}
 			"DeathPanel"
 			{
@@ -469,9 +472,9 @@
 				"ypos"			"0"
 				"zpos"			"0"
 				"wide"			"f0"
-				"tall"			"24"
+				"tall"			"20"
 				"visible"		"0"
-				"enabled"		"1"
+				"enabled"		"0"
 				"image"			"../HUD/comp_player_status"	
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"	
@@ -485,7 +488,7 @@
 				"wide"			"o1.2"
 				"tall"			"p0.15"
 				"visible"		"0"
-				"enabled"		"1"
+				"enabled"		"0"
 				"image"			"../HUD/comp_player_status_skull"	
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"	

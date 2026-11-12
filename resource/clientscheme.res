@@ -17,7 +17,7 @@ Scheme
 		"PartyMember5"	"255 118 108 255"
 		"PartyMember6"	"255 133 255 255"
 		
-		"teamblue"		"86 133 181 255"
+		"teamblue"		"85 134 182 255"
 		"teamred"		"180 65 55 255"
 		"goldyellow"	"255 225 25 255"
 		"White120"		"235 235 235 120"
@@ -434,7 +434,7 @@ Scheme
 		{
 			"1" 
 			{	
-				"name" "Inter Regular" 
+				"name" "inter" 
 				"tall" "8" 
 				"antialias" "1" 
 			}
@@ -444,7 +444,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium Italic"
+				"name"		"intermediumitalic"
 				"tall"		"12"
 				"antialias"	"1"
 			}
@@ -454,7 +454,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium Italic"
+				"name"		"interblackitalic"
 				"tall"		"12"
 				"antialias"	"1"
 			}
@@ -464,7 +464,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Regular"
+				"name"		"inter"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -474,7 +474,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Regular"
+				"name"		"inter"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -484,7 +484,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Regular"
+				"name"		"inter"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -494,7 +494,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Regular"
+				"name"		"inter"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -504,7 +504,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Regular"
+				"name"		"inter"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -514,7 +514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Regular"
+				"name"		"inter"
 				"tall"		"64"
 				"antialias" "1"
 			}
@@ -524,7 +524,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Italic"
+				"name"		"interitalic"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -534,7 +534,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Italic"
+				"name"		"interitalic"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -544,7 +544,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Italic"
+				"name"		"interitalic"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -554,7 +554,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Italic"
+				"name"		"interitalic"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -564,7 +564,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Italic"
+				"name"		"interitalic"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -574,7 +574,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Italic"
+				"name"		"interitalic"
 				"tall"		"64"
 				"antialias" "1"
 			}
@@ -584,7 +584,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"intermedium"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -594,7 +594,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"intermedium"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -604,7 +604,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"intermedium"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -614,7 +614,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"intermedium"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -624,7 +624,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"intermedium"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -634,7 +634,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"intermedium"
 				"tall"		"64"
 				"antialias" "1"
 			}
@@ -644,7 +644,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium Italic"
+				"name"		"intermediumitalic"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -654,7 +654,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium Italic"
+				"name"		"intermediumitalic"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -664,7 +664,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium Italic"
+				"name"		"intermediumitalic"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -674,7 +674,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium Italic"
+				"name"		"intermediumitalic"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -684,7 +684,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium Italic"
+				"name"		"intermediumitalic"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -694,7 +694,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium Italic"
+				"name"		"intermediumitalic"
 				"tall"		"64"
 				"antialias" "1"
 			}
@@ -704,7 +704,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold"
+				"name"		"intersemibold"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -714,7 +714,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold"
+				"name"		"intersemibold"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -724,7 +724,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold"
+				"name"		"intersemibold"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -734,7 +734,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold"
+				"name"		"intersemibold"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -744,7 +744,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold"
+				"name"		"intersemibold"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -754,7 +754,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold"
+				"name"		"intersemibold"
 				"tall"		"64"
 				"antialias" "1"
 			}
@@ -764,7 +764,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold Italic"
+				"name"		"intersemibolditalic"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -774,7 +774,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold Italic"
+				"name"		"intersemibolditalic"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -784,7 +784,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold Italic"
+				"name"		"intersemibolditalic"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -794,7 +794,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold Italic"
+				"name"		"intersemibolditalic"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -804,7 +804,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold Italic"
+				"name"		"intersemibolditalic"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -814,7 +814,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter SemiBold Italic"
+				"name"		"intersemibolditalic"
 				"tall"		"64"
 				"antialias" "1"
 			}
@@ -824,7 +824,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black"
+				"name"		"interblack"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -834,7 +834,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black"
+				"name"		"interblack"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -844,7 +844,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black"
+				"name"		"interblack"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -854,7 +854,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black"
+				"name"		"interblack"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -864,7 +864,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black"
+				"name"		"interblack"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -874,7 +874,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black"
+				"name"		"interblack"
 				"tall"		"64"
 				"antialias" "1"
 			}
@@ -884,7 +884,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black Italic"
+				"name"		"interblackitalic"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -894,7 +894,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black Italic"
+				"name"		"interblackitalic"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -904,7 +904,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black Italic"
+				"name"		"interblackitalic"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -914,7 +914,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black Italic"
+				"name"		"interblackitalic"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -924,7 +924,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black Italic"
+				"name"		"interblackitalic"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -934,7 +934,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Black Italic"
+				"name"		"interblackitalic"
 				"tall"		"64"
 				"antialias" "1"
 			}
@@ -945,10 +945,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
-				"tall"		"11"
-				"weight"	"500"
-				"additive"	"0"
+				"name"		"inter"
+				"tall"		"12"
 				"antialias" 	"1"
 			}
 		}
@@ -3641,44 +3639,44 @@ Scheme
 	{
 		"1"
 		{
-			"font" "resource/glyphs/Inter-Regular.ttf"
-			"name" "Inter Regular"
+			"font" "resource/glyphs/interregular.ttf"
+			"name" "inter"
 		}
 
 		"2"
 		{
-			"font" "resource/glyphs/Inter-Italic.ttf"
-			"name" "Inter Italic"
+			"font" "resource/glyphs/interitalic.ttf"
+			"name" "interitalic"
 		}
 		"3"
 		{
-			"font" "resource/glyphs/Inter-Medium.ttf"
-			"name" "Inter Medium"
+			"font" "resource/glyphs/intermedium.ttf"
+			"name" "intermedium"
 		}
 		"4"
 		{
-			"font" "resource/glyphs/Inter-MediumItalic.ttf"
-			"name" "Inter Medium Italic"
+			"font" "resource/glyphs/intermediumitalic.ttf"
+			"name" "intermediumitalic"
 		}
 		"5"
 		{
-			"font" "resource/glyphs/Inter-SemiBold.ttf"
-			"name" "Inter SemiBold"
+			"font" "resource/glyphs/intersemibold.ttf"
+			"name" "intersemibold"
 		}
 		"6"
 		{
-			"font" "resource/glyphs/Inter-SemiBoldItalic.ttf"
-			"name" "Inter SemiBold Italic"
+			"font" "resource/glyphs/intersemibolditalic.ttf"
+			"name" "intersemibolditalic"
 		}
 		"7"
 		{
-			"font" "resource/glyphs/Inter-Black.ttf"
-			"name" "Inter Black"
+			"font" "resource/glyphs/interblack.ttf"
+			"name" "interblack"
 		}
 		"8"
 		{
-			"font" "resource/glyphs/Inter-BlackItalic.ttf"
-			"name" "Inter Black Italic"
+			"font" "resource/glyphs/interblackitalic.ttf"
+			"name" "interblackitalic"
 		}
 	}
 }
